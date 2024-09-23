@@ -1,3 +1,3 @@
 # Python
 
-Repositório de todos os códigos projetos executados em Python
+Repositório de todos os códigos e projetos executados em Python
